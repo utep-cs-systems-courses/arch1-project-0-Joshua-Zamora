@@ -1,6 +1,6 @@
 #include "draw.h"		/* for font */
 #include "stdio.h"		/* for putchar */
-
+// Hello
 void print_char_11x16(char c)
 {
   c -= 0x20;
